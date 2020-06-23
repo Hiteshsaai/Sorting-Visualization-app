@@ -1,4 +1,4 @@
-# Sorting Visualization App
+# Sorting Visualization App using React
 
 **Demo**
 
