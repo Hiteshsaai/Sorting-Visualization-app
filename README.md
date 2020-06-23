@@ -1,3 +1,11 @@
+# Sorting Visualization App
+
+**Demo**
+
+
+
+Click this link for experiencing our own Famous Sorting Algorithms https://hiteshsaai.github.io/Sorting-Visualization-app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
