@@ -2,6 +2,7 @@
 
 **Demo**
 
+![Alt Text](https://github.com/Hiteshsaai/Sorting-Visualization-app/blob/master/sortingnew.gif)
 
 
 Click this link for experiencing our own Famous Sorting Algorithms https://hiteshsaai.github.io/Sorting-Visualization-app/
